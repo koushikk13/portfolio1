@@ -1,0 +1,69 @@
+<svg width="1200" height="1500" viewBox="0 0 1200 1500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="1500" rx="56" fill="#091024"/>
+  <rect x="20" y="20" width="1160" height="1460" rx="40" stroke="url(#paint0_linear)" stroke-opacity="0.45" stroke-width="2"/>
+  <circle cx="936" cy="264" r="280" fill="url(#paint1_radial)" fill-opacity="0.65"/>
+  <circle cx="252" cy="1218" r="320" fill="url(#paint2_radial)" fill-opacity="0.55"/>
+  <path d="M224 1236C224 1029.53 391.533 862 598 862C804.467 862 972 1029.53 972 1236V1348H224V1236Z" fill="url(#paint3_linear)" fill-opacity="0.92"/>
+  <circle cx="598" cy="580" r="220" fill="url(#paint4_linear)"/>
+  <circle cx="598" cy="580" r="188" fill="#101A35"/>
+  <path d="M598 414C685.813 414 757 485.187 757 573C757 660.813 685.813 732 598 732C510.187 732 439 660.813 439 573C439 485.187 510.187 414 598 414Z" fill="url(#paint5_linear)"/>
+  <path d="M427 1098C463.406 996.498 561.337 924 676 924C790.663 924 888.594 996.498 925 1098V1165H427V1098Z" fill="#101A35"/>
+  <path d="M120 188H475" stroke="url(#paint6_linear)" stroke-width="2" stroke-linecap="round" stroke-dasharray="6 10"/>
+  <path d="M742 1286H1080" stroke="url(#paint7_linear)" stroke-width="2" stroke-linecap="round" stroke-dasharray="6 10"/>
+  <path d="M178 314H322" stroke="#79F4D0" stroke-opacity="0.55" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="165" cy="314" r="8" fill="#79F4D0"/>
+  <path d="M878 208H1022" stroke="#FFCB7C" stroke-opacity="0.58" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="1035" cy="208" r="8" fill="#FFCB7C"/>
+  <g filter="url(#filter0_d)">
+    <rect x="110" y="108" width="328" height="148" rx="24" fill="#0E1833" fill-opacity="0.88"/>
+    <text fill="#79F4D0" xml:space="preserve" style="white-space: pre" font-family="Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="0.14em"><tspan x="142" y="160.16">PROFILE READY</tspan></text>
+    <text fill="#B3BFDC" xml:space="preserve" style="white-space: pre" font-family="Arial, sans-serif" font-size="24"><tspan x="142" y="206.594">Replace with your portrait</tspan></text>
+  </g>
+  <text fill="#F6F8FF" xml:space="preserve" style="white-space: pre" font-family="Arial, sans-serif" font-size="220" font-weight="700" letter-spacing="0.02em"><tspan x="302" y="827.188">KK</tspan></text>
+  <text fill="#B3BFDC" xml:space="preserve" style="white-space: pre" font-family="Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="0.24em"><tspan x="376" y="1416.391">UPLOAD PROFILE-PHOTO.JPG</tspan></text>
+  <defs>
+    <filter id="filter0_d" x="74" y="86" width="400" height="220" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+      <feOffset dy="14"/>
+      <feGaussianBlur stdDeviation="18"/>
+      <feComposite in2="hardAlpha" operator="out"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0.024 0 0 0 0 0.062 0 0 0 0 0.143 0 0 0 0.45 0"/>
+      <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+    </filter>
+    <linearGradient id="paint0_linear" x1="120" y1="104" x2="1048" y2="1380" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#79F4D0"/>
+      <stop offset="0.52" stop-color="#75A7FF"/>
+      <stop offset="1" stop-color="#FF7FA9"/>
+    </linearGradient>
+    <radialGradient id="paint1_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(936 264) rotate(90) scale(280)">
+      <stop stop-color="#75A7FF"/>
+      <stop offset="1" stop-color="#75A7FF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="paint2_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(252 1218) rotate(90) scale(320)">
+      <stop stop-color="#79F4D0"/>
+      <stop offset="1" stop-color="#79F4D0" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="paint3_linear" x1="236" y1="884" x2="902" y2="1368" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#75A7FF"/>
+      <stop offset="1" stop-color="#101A35"/>
+    </linearGradient>
+    <linearGradient id="paint4_linear" x1="378" y1="360" x2="790" y2="798" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#79F4D0"/>
+      <stop offset="1" stop-color="#75A7FF"/>
+    </linearGradient>
+    <linearGradient id="paint5_linear" x1="475" y1="446" x2="718" y2="708" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#192852"/>
+      <stop offset="1" stop-color="#0E1833"/>
+    </linearGradient>
+    <linearGradient id="paint6_linear" x1="120" y1="188.5" x2="475" y2="188.5" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#79F4D0"/>
+      <stop offset="1" stop-color="#79F4D0" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="paint7_linear" x1="742" y1="1286.5" x2="1080" y2="1286.5" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFCB7C" stop-opacity="0"/>
+      <stop offset="1" stop-color="#FFCB7C"/>
+    </linearGradient>
+  </defs>
+</svg>
